@@ -43,7 +43,6 @@ Download the latest verified, signed APK directly to your Android device:
 
 ## 🛡️ Build & Security Details
 
-- **Package Name:** `com.hemkumar99.frontend`
 - **Version Name:** `1.0.0`
 - **APK Size:** `32.6 MB`
 - **Minimum OS:** Android 6.0 (API Level 23)
