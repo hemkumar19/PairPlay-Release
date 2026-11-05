@@ -1,7 +1,7 @@
 # PairPlay — Official Android App Release
 
-![Version](https://img.shields.io/badge/Release-v1.0.0-ff4b72?style=for-the-badge&logo=android)
-![APK Size](https://img.shields.io/badge/APK%20Size-32.6%20MB-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Release-v1.1.0-ff4b72?style=for-the-badge&logo=android)
+![APK Size](https://img.shields.io/badge/APK%20Size-42.8%20MB-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Verified%20%26%20Signed-success?style=for-the-badge)
 ![Target](https://img.shields.io/badge/Android-6.0%2B-green?style=for-the-badge)
 
@@ -16,18 +16,23 @@ Download the latest verified, signed APK directly to your Android device:
 | File | Description | Download Link |
 | :--- | :--- | :--- |
 | **`PairPlay-latest.apk`** | **Always latest release (Recommended)** | [📥 **Download Latest APK**](https://github.com/hemkumar19/PairPlay-Release/raw/main/PairPlay-latest.apk) |
-| `PairPlay-v1.0.0.apk` | Specific build for v1.0.0 | [📦 Download v1.0.0 APK](https://github.com/hemkumar19/PairPlay-Release/raw/main/PairPlay-v1.0.0.apk) |
+| `PairPlay-v1.1.0.apk` | Specific build for v1.1.0 | [📦 Download v1.1.0 APK](https://github.com/hemkumar19/PairPlay-Release/raw/main/PairPlay-v1.1.0.apk) |
 
 > 💡 **Direct Download URL for In-App Updates:**  
 > `https://github.com/hemkumar19/PairPlay-Release/raw/main/PairPlay-latest.apk`
 
 ---
 
-## ✨ What's New in v1.0.0
-**PairPlay v1.0.0 - Couple Magic Update**  
-*Released on: November 1, 2026*
+## ✨ What's New in v1.1.0
+**PairPlay v1.1.0 - Couple Magic Update**  
+*Released on: November 6, 2026*
 
-
+- Interactive Love Calendar & Milestone tracker with date picker
+- Voice & Video calling in-game overlay
+- Privacy settings: Hide Gmail & Mobile from Chat Profile view
+- 120+ Indian & Global cities + 80+ professions added to profile search
+- Real-time chat notifications & enhanced UI animations
+- Milestone delete bugfix & outside-touch dropdown dismiss
 
 ---
 
@@ -43,8 +48,8 @@ Download the latest verified, signed APK directly to your Android device:
 
 ## 🛡️ Build & Security Details
 
-- **Version Name:** `1.0.0`
-- **APK Size:** `32.6 MB`
+- **Version Name:** `1.1.0`
+- **APK Size:** `42.8 MB`
 - **Minimum OS:** Android 6.0 (API Level 23)
 - **Target OS:** Android 14 (API Level 34)
 - **Signature:** Signed with official PairPlay keystore
